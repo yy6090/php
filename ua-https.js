@@ -1,3 +1,4 @@
+/*!UA判断跳转 */
 UA = navigator.userAgent.toLowerCase();
 url = window.location;
 url = url.toString();
