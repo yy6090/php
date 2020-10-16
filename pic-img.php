@@ -16,3 +16,4 @@ function npimgcurl($url){
 	curl_close($ch);
 	return $data;
 }
+?>
