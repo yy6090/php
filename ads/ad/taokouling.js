@@ -29,13 +29,13 @@ function randomNum(minNum,maxNum){
 function randomKL(num){ 
     switch(num){ 
         case 1: 
-            return "￥qLNfciDyyql$"; //这里替换成你的口令代码 双十一超级红包
+            return "6fu植本段内容￥qLNfciDyyql$到淘t..宝或点几链街 https://m.tb.cn/h.41Q4TTQ 至流览器【2020天喵双11—主会场（全球好货预售，最高领1111元红 鉋！）】"; //这里替换成你的口令代码 双十一超级红包
         break; 
         case 2: 
-            return "￥KqkjciDBreR$"; //双十一超级红包2
+            return "7.0付致本段内容￥KqkjciDBreR$到ホ兆bao或點击链街 https://m.tb.cn/h.4cdM45P 至流览器【超级红 鉋主会场（大额红 鉋50万个，最低6元起，24日20点开抢！）】"; //双十一超级红包2
         break; 
             default: 
-                return "￥qLNfciDyyql$"; 
+                return "6fu植本段内容￥qLNfciDyyql$到淘t..宝或点几链街 https://m.tb.cn/h.41Q4TTQ 至流览器【2020天喵双11—主会场（全球好货预售，最高领1111元红 鉋！）】"; 
             break; 
     } 
 }
